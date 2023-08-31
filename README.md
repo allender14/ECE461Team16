@@ -1,5 +1,6 @@
 # ECE461Team16
-# Evan Committed
-# Calix
+# Evan
+# Calix 
 # Xavier Committed
 # Patrick
+# Ayush
