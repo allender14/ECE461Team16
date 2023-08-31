@@ -1,6 +1,11 @@
 # ECE461Team16
+<<<<<<< HEAD
 # Evan.
+=======
+
+# Evan
+>>>>>>> main
 # Calix 
-# Xavier Committed
+# Xavier
 # Patrick
-# Ayush
+# Ayush 
