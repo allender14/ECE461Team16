@@ -1,5 +1,4 @@
 # ECE461Team16
-# Evan.
 
 # Evan
 # Calix 
